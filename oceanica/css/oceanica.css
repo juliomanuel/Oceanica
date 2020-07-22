@@ -1,0 +1,116 @@
+html{
+	font-family: Arial;
+}
+
+body {
+	
+	background-image: url("data:image/jpeg;base64,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");
+	
+	
+}
+
+
+
+h1{
+	text-align: center;
+	font-size: 42px;
+	color:white;
+	background-color: #065678;
+		
+}
+ul, ol {
+				list-style:none;
+
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:grey;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#065678;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+			.nav {
+				width:500px; /*Le establecemos un ancho*/
+				margin:0 auto; /*Centramos automaticamente*/
+			}
+
+
+.salesforce{
+	height: 100px;
+	width: 170px;
+}
+
+form{
+	color: black;
+}
+
+.formulario {
+	background-color: #39BBA8;
+	border-radius: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 40%;
+
+}
+
+
+.campos{	
+	/**border: 1px solid black;**/
+	text-align: center;
+	font-size: 20px;
+}
+ .boton {
+ 	margin-top: 15px;
+ 	text-align: center;
+ }
+
+p{
+	font-size: 20px;
+}
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    color:black;
+    width: 80%;
+    background-color: white;
+}
+ 
+
+.form{
+ background-color: grey;
+
+label{
+}
+
+input{
+	border: 1px solid black;
+}
